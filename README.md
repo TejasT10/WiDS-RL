@@ -4,3 +4,5 @@ Project repository for the project Agent Jackie: Reinforcement Learning Adventur
 Week 1: Linear Regression
 
 Week 2: Multi-armed Bandits
+
+Week 3: Markov Decision Processes
